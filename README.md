@@ -1,7 +1,7 @@
 
 
 # Please go to original repository, https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
-[Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) Contributed by [@sergiomarotco](https://github.com/sergiomarotco) and [@eltociear](https://github.com/eltociear)
+[Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) contributed by [@sergiomarotco](https://github.com/sergiomarotco) and [@eltociear](https://github.com/eltociear)
 
 
 
