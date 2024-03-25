@@ -10,7 +10,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 
 
-Do not use this repository, **you must go to** [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) and support them.
+**Do not use** this repository, **you must go to** [Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) and support them.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -23,11 +23,8 @@ Do not use this repository, **you must go to** [Network-segmentation-cheat-sheet
 
 Network segmentation acts as a cornerstone in the architecture of cybersecurity, serving as a proactive measure against unauthorized access and attacks. By dividing a network into distinct segments, organizations can control the flow of traffic, enforce security policies more effectively, and limit the spread of potential threats. Below is a more detailed exploration of the four segmentation levels.
 
----
-
-## Where can I find diagrams?
-Graphic diagrams are available in the [Release page](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases)</br>
-The schema sources are located in the [repository](https://github.com/sergiomarotco/Best-practice-for-network-segmentation)
+- Graphic diagrams are available in the [Release page](https://github.com/sergiomarotco/Best-practice-for-network-segmentation/releases)</br>
+- The schema sources are located in the [repository](https://github.com/sergiomarotco/Best-practice-for-network-segmentation)
 
 ## Schematic symbols
 Elements used in network diagrams:<br/>
